@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EilDrUFlX2I4724oEtphNhAdTh4sTGqMYFz+qtCKVz4OEsDOsbL6LSg9mVpyfK5/yXwipocZKLYXMIqkcz/1Rg==",
+  "dgSpecHash": "Vzwkb/pn+S0xZbcww/oNHUmt3K+Uyjq765kUhEKBTW2YzpMC8G7Q8oA3E7GrXcyj8teqooG2V0YQWABQRw7SxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LiamTower\\Desktop\\Robotics Company\\Robo_WarehouseAPI\\Robo_WarehouseAPI\\Robo_WarehouseAPI.csproj",
+  "projectFilePath": "C:\\Users\\LiamTower\\Desktop\\RoboCorpProject\\RoboCorp\\Robo_WarehouseAPI\\Robo_WarehouseAPI\\Robo_WarehouseAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LiamTower\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LiamTower\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.11\\microsoft.aspnetcore.authentication.jwtbearer.5.0.11.nupkg.sha512",
